@@ -55,7 +55,9 @@ export const CountrySelector = (props: CountrySelectorProps) => {
     placeholder,
     countriesIso
   } = props
+
   let countries = CountriesJson
+
   if(countriesIso){
     countries = CountriesJson.filter(country => countriesIso.includes(country?.iso2)).map((country) => {
       return {
@@ -74,7 +76,7 @@ export const CountrySelector = (props: CountrySelectorProps) => {
       }
     })
   } else {
-  countries = CountriesJson.map((country) => {
+    countries = CountriesJson.map((country) => {
     return {
       value: country.iso2,
       label: (
@@ -173,7 +175,7 @@ export const StateSelector = (props: StateSelectorProps) => {
       ?.map((state: StateOptions) => {
         return {
           value: state?.state_code,
-          label: state?.name,
+          label: state?.name.replace("Region", ""),
           ...state
         }
       })
@@ -256,7 +258,7 @@ export const CitySelector = (props: CitySelectorProps) => {
       ?.map((city: any) => {
         return {
           value: city?.name,
-          label: city?.name,
+          label: city?.name.replace("Department", ""),
           ...city
         }
       })

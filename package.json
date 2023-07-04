@@ -1,10 +1,10 @@
 {
-  "name": "volkeno-react-country-state-city",
+  "name": "volkeno-react-countries-states-cities-in-french",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "description": "List of World contries, states and cities in french",
   "author": "VolkenoMakers",
   "license": "MIT",
-  "repository": "VolkenoMakers/volkeno-react-country-state-city",
+  "repository": "VolkenoMakers/volkeno-react-countries-states-cities-in-french",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
