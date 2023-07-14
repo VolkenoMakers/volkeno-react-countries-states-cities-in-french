@@ -245,11 +245,6 @@
    "iso3": "COM"
   },
   {
-   "name": "Mayotte",
-   "iso2": "YT",
-   "iso3": "MYT"
-  },
-  {
    "name": "République du Congo",
    "iso2": "CG",
    "iso3": "COG"
@@ -373,16 +368,6 @@
    "name": "France",
    "iso2": "FR",
    "iso3": "FRA"
-  },
-  {
-   "name": "Guyane Française",
-   "iso2": "GF",
-   "iso3": "GUF"
-  },
-  {
-   "name": "Polynésie Française",
-   "iso2": "PF",
-   "iso3": "PYF"
   },
   {
    "name": "Terres Australes Françaises",
