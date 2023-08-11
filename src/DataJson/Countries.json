@@ -10,19 +10,9 @@
    "iso3": "ALB"
   },
   {
-   "name": "Antarctique",
-   "iso2": "AQ",
-   "iso3": "ATA"
-  },
-  {
    "name": "Algérie",
    "iso2": "DZ",
    "iso3": "DZA"
-  },
-  {
-   "name": "Samoa Américaines",
-   "iso2": "AS",
-   "iso3": "ASM"
   },
   {
    "name": "Andorre",
@@ -33,11 +23,6 @@
    "name": "Angola",
    "iso2": "AO",
    "iso3": "AGO"
-  },
-  {
-   "name": "Antigua-et-Barbuda",
-   "iso2": "AG",
-   "iso3": "ATG"
   },
   {
    "name": "Azerbaïdjan",
@@ -90,16 +75,6 @@
    "iso3": "BEL"
   },
   {
-   "name": "Bermudes",
-   "iso2": "BM",
-   "iso3": "BMU"
-  },
-  {
-   "name": "Bhoutan",
-   "iso2": "BT",
-   "iso3": "BTN"
-  },
-  {
    "name": "Bolivie",
    "iso2": "BO",
    "iso3": "BOL"
@@ -115,49 +90,14 @@
    "iso3": "BWA"
   },
   {
-   "name": "Île Bouvet",
-   "iso2": "BV",
-   "iso3": "BVT"
-  },
-  {
    "name": "Brésil",
    "iso2": "BR",
    "iso3": "BRA"
   },
   {
-   "name": "Belize",
-   "iso2": "BZ",
-   "iso3": "BLZ"
-  },
-  {
-   "name": "Territoire Britannique de l'Océan Indien",
-   "iso2": "IO",
-   "iso3": "IOT"
-  },
-  {
-   "name": "Îles Salomon",
-   "iso2": "SB",
-   "iso3": "SLB"
-  },
-  {
-   "name": "Îles Vierges Britanniques",
-   "iso2": "VG",
-   "iso3": "VGB"
-  },
-  {
-   "name": "Brunéi Darussalam",
-   "iso2": "BN",
-   "iso3": "BRN"
-  },
-  {
    "name": "Bulgarie",
    "iso2": "BG",
    "iso3": "BGR"
-  },
-  {
-   "name": "Myanmar",
-   "iso2": "MM",
-   "iso3": "MMR"
   },
   {
    "name": "Burundi",
@@ -188,11 +128,6 @@
    "name": "Cap-vert",
    "iso2": "CV",
    "iso3": "CPV"
-  },
-  {
-   "name": "Îles Caïmanes",
-   "iso2": "KY",
-   "iso3": "CYM"
   },
   {
    "name": "République Centrafricaine",
@@ -230,11 +165,6 @@
    "iso3": "CXR"
   },
   {
-   "name": "Îles Cocos (Keeling)",
-   "iso2": "CC",
-   "iso3": "CCK"
-  },
-  {
    "name": "Colombie",
    "iso2": "CO",
    "iso3": "COL"
@@ -253,11 +183,6 @@
    "name": "République Démocratique du Congo",
    "iso2": "CD",
    "iso3": "COD"
-  },
-  {
-   "name": "Îles Cook",
-   "iso2": "CK",
-   "iso3": "COK"
   },
   {
    "name": "Costa Rica",
@@ -335,21 +260,6 @@
    "iso3": "EST"
   },
   {
-   "name": "Îles Féroé",
-   "iso2": "FO",
-   "iso3": "FRO"
-  },
-  {
-   "name": "Îles (malvinas) Falkland",
-   "iso2": "FK",
-   "iso3": "FLK"
-  },
-  {
-   "name": "Géorgie du Sud et les Îles Sandwich du Sud",
-   "iso2": "GS",
-   "iso3": "SGS"
-  },
-  {
    "name": "Fidji",
    "iso2": "FJ",
    "iso3": "FJI"
@@ -360,19 +270,9 @@
    "iso3": "FIN"
   },
   {
-   "name": "Îles Åland",
-   "iso2": "AX",
-   "iso3": "ALA"
-  },
-  {
    "name": "France",
    "iso2": "FR",
    "iso3": "FRA"
-  },
-  {
-   "name": "Terres Australes Françaises",
-   "iso2": "TF",
-   "iso3": "ATF"
   },
   {
    "name": "Djibouti",
@@ -395,11 +295,6 @@
    "iso3": "GMB"
   },
   {
-   "name": "Territoire Palestinien Occupé",
-   "iso2": "PS",
-   "iso3": "PSE"
-  },
-  {
    "name": "Allemagne",
    "iso2": "DE",
    "iso3": "DEU"
@@ -415,24 +310,9 @@
    "iso3": "GIB"
   },
   {
-   "name": "Kiribati",
-   "iso2": "KI",
-   "iso3": "KIR"
-  },
-  {
    "name": "Grèce",
    "iso2": "GR",
    "iso3": "GRC"
-  },
-  {
-   "name": "Groenland",
-   "iso2": "GL",
-   "iso3": "GRL"
-  },
-  {
-   "name": "Grenade",
-   "iso2": "GD",
-   "iso3": "GRD"
   },
   {
    "name": "Guadeloupe",
@@ -440,39 +320,14 @@
    "iso3": "GLP"
   },
   {
-   "name": "Guam",
-   "iso2": "GU",
-   "iso3": "GUM"
-  },
-  {
-   "name": "Guatemala",
-   "iso2": "GT",
-   "iso3": "GTM"
-  },
-  {
    "name": "Guinée",
    "iso2": "GN",
    "iso3": "GIN"
   },
   {
-   "name": "Guyana",
-   "iso2": "GY",
-   "iso3": "GUY"
-  },
-  {
    "name": "Haïti",
    "iso2": "HT",
    "iso3": "HTI"
-  },
-  {
-   "name": "Îles Heard et Mcdonald",
-   "iso2": "HM",
-   "iso3": "HMD"
-  },
-  {
-   "name": "Saint-Siège (état de la Cité du Vatican)",
-   "iso2": "VA",
-   "iso3": "VAT"
   },
   {
    "name": "Honduras",
@@ -610,11 +465,6 @@
    "iso3": "LBY"
   },
   {
-   "name": "Liechtenstein",
-   "iso2": "LI",
-   "iso3": "LIE"
-  },
-  {
    "name": "Lituanie",
    "iso2": "LT",
    "iso3": "LTU"
@@ -670,11 +520,6 @@
    "iso3": "MRT"
   },
   {
-   "name": "Maurice",
-   "iso2": "MU",
-   "iso3": "MUS"
-  },
-  {
    "name": "Mexique",
    "iso2": "MX",
    "iso3": "MEX"
@@ -685,19 +530,9 @@
    "iso3": "MCO"
   },
   {
-   "name": "Mongolie",
-   "iso2": "MN",
-   "iso3": "MNG"
-  },
-  {
    "name": "République de Moldova",
    "iso2": "MD",
    "iso3": "MDA"
-  },
-  {
-   "name": "Montserrat",
-   "iso2": "MS",
-   "iso3": "MSR"
   },
   {
    "name": "Maroc",
@@ -720,11 +555,6 @@
    "iso3": "NAM"
   },
   {
-   "name": "Nauru",
-   "iso2": "NR",
-   "iso3": "NRU"
-  },
-  {
    "name": "Népal",
    "iso2": "NP",
    "iso3": "NPL"
@@ -733,21 +563,6 @@
    "name": "Pays-Bas",
    "iso2": "NL",
    "iso3": "NLD"
-  },
-  {
-   "name": "Antilles Néerlandaises",
-   "iso2": "AN",
-   "iso3": "ANT"
-  },
-  {
-   "name": "Aruba",
-   "iso2": "AW",
-   "iso3": "ABW"
-  },
-  {
-   "name": "Nouvelle-Calédonie",
-   "iso2": "NC",
-   "iso3": "NCL"
   },
   {
    "name": "Vanuatu",
@@ -775,59 +590,14 @@
    "iso3": "NGA"
   },
   {
-   "name": "Niué",
-   "iso2": "NU",
-   "iso3": "NIU"
-  },
-  {
-   "name": "Île Norfolk",
-   "iso2": "NF",
-   "iso3": "NFK"
-  },
-  {
    "name": "Norvège",
    "iso2": "NO",
    "iso3": "NOR"
   },
   {
-   "name": "Îles Mariannes du Nord",
-   "iso2": "MP",
-   "iso3": "MNP"
-  },
-  {
-   "name": "Îles Mineures Éloignées des États-Unis",
-   "iso2": "UM",
-   "iso3": "UMI"
-  },
-  {
-   "name": "États Fédérés de Micronésie",
-   "iso2": "FM",
-   "iso3": "FSM"
-  },
-  {
-   "name": "Îles Marshall",
-   "iso2": "MH",
-   "iso3": "MHL"
-  },
-  {
-   "name": "Palaos",
-   "iso2": "PW",
-   "iso3": "PLW"
-  },
-  {
    "name": "Pakistan",
    "iso2": "PK",
    "iso3": "PAK"
-  },
-  {
-   "name": "Panama",
-   "iso2": "PA",
-   "iso3": "PAN"
-  },
-  {
-   "name": "Papouasie-Nouvelle-Guinée",
-   "iso2": "PG",
-   "iso3": "PNG"
   },
   {
    "name": "Paraguay",
@@ -865,11 +635,6 @@
    "iso3": "GNB"
   },
   {
-   "name": "Timor-Leste",
-   "iso2": "TL",
-   "iso3": "TLS"
-  },
-  {
    "name": "Porto Rico",
    "iso2": "PR",
    "iso3": "PRI"
@@ -898,41 +663,6 @@
    "name": "Rwanda",
    "iso2": "RW",
    "iso3": "RWA"
-  },
-  {
-   "name": "Sainte-Hélène",
-   "iso2": "SH",
-   "iso3": "SHN"
-  },
-  {
-   "name": "Saint-Kitts-et-Nevis",
-   "iso2": "KN",
-   "iso3": "KNA"
-  },
-  {
-   "name": "Anguilla",
-   "iso2": "AI",
-   "iso3": "AIA"
-  },
-  {
-   "name": "Sainte-Lucie",
-   "iso2": "LC",
-   "iso3": "LCA"
-  },
-  {
-   "name": "Saint-Pierre-et-Miquelon",
-   "iso2": "PM",
-   "iso3": "SPM"
-  },
-  {
-   "name": "Saint-Vincent-et-les Grenadines",
-   "iso2": "VC",
-   "iso3": "VCT"
-  },
-  {
-   "name": "Saint-Marin",
-   "iso2": "SM",
-   "iso3": "SMR"
   },
   {
    "name": "Sao Tomé-et-Principe",
@@ -1000,29 +730,9 @@
    "iso3": "ESP"
   },
   {
-   "name": "Sahara Occidental",
-   "iso2": "EH",
-   "iso3": "ESH"
-  },
-  {
    "name": "Soudan",
    "iso2": "SD",
    "iso3": "SDN"
-  },
-  {
-   "name": "Suriname",
-   "iso2": "SR",
-   "iso3": "SUR"
-  },
-  {
-   "name": "Svalbard etÎle Jan Mayen",
-   "iso2": "SJ",
-   "iso3": "SJM"
-  },
-  {
-   "name": "Swaziland",
-   "iso2": "SZ",
-   "iso3": "SWZ"
   },
   {
    "name": "Suède",
@@ -1038,11 +748,6 @@
    "name": "République Arabe Syrienne",
    "iso2": "SY",
    "iso3": "SYR"
-  },
-  {
-   "name": "Tadjikistan",
-   "iso2": "TJ",
-   "iso3": "TJK"
   },
   {
    "name": "Thaïlande",
@@ -1065,11 +770,6 @@
    "iso3": "TON"
   },
   {
-   "name": "Trinité-et-Tobago",
-   "iso2": "TT",
-   "iso3": "TTO"
-  },
-  {
    "name": "Émirats Arabes Unis",
    "iso2": "AE",
    "iso3": "ARE"
@@ -1085,21 +785,6 @@
    "iso3": "TUR"
   },
   {
-   "name": "Turkménistan",
-   "iso2": "TM",
-   "iso3": "TKM"
-  },
-  {
-   "name": "Îles Turks et Caïques",
-   "iso2": "TC",
-   "iso3": "TCA"
-  },
-  {
-   "name": "Tuvalu",
-   "iso2": "TV",
-   "iso3": "TUV"
-  },
-  {
    "name": "Ouganda",
    "iso2": "UG",
    "iso3": "UGA"
@@ -1108,11 +793,6 @@
    "name": "Ukraine",
    "iso2": "UA",
    "iso3": "UKR"
-  },
-  {
-   "name": "L'ex-République Yougoslave de Macédoine",
-   "iso2": "MK",
-   "iso3": "MKD"
   },
   {
    "name": "Égypte",
@@ -1125,11 +805,6 @@
    "iso3": "GBR"
   },
   {
-   "name": "Île de Man",
-   "iso2": "IM",
-   "iso3": "IMN"
-  },
-  {
    "name": "République-Unie de Tanzanie",
    "iso2": "TZ",
    "iso3": "TZA"
@@ -1138,11 +813,6 @@
    "name": "États-Unis",
    "iso2": "US",
    "iso3": "USA"
-  },
-  {
-   "name": "Îles Vierges des États-Unis",
-   "iso2": "VI",
-   "iso3": "VIR"
   },
   {
    "name": "Burkina Faso",
@@ -1165,24 +835,9 @@
    "iso3": "VEN"
   },
   {
-   "name": "Wallis et Futuna",
-   "iso2": "WF",
-   "iso3": "WLF"
-  },
-  {
-   "name": "Samoa",
-   "iso2": "WS",
-   "iso3": "WSM"
-  },
-  {
    "name": "Yémen",
    "iso2": "YE",
    "iso3": "YEM"
-  },
-  {
-   "name": "Serbie-et-Monténégro",
-   "iso2": "CS",
-   "iso3": "SCG"
   },
   {
    "name": "Zambie",
